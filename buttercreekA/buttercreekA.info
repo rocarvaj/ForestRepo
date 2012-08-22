@@ -1,0 +1,9 @@
+Created from data set Buttercreek from FMOS. Stand id is identical to data set.
+
+Files:
+
+	-area.area   Stand area in acres. From attribute "Acres" in shapefile.
+	-profit.profit Obtained from attribute "Value" in shapefile. 
+	-line.adjacency   Adjacency considering two stands adjacent if the number of points
+			    in their intersection is strictly greater than 1
+	-point.adjacency Adjacency considering two stands adjacent if they intersect.

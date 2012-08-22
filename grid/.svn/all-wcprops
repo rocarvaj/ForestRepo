@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/OFP/!svn/ver/389/trunk/DATA/grid
+END
+grid.adj
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.adj
+END
+grid.garea
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.garea
+END
+grid.vol
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.vol
+END
+grid.grid
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.grid
+END
+grid.prof
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.prof
+END
+grid.area
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.area
+END
+grid.area2
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.area2
+END
+grid.age
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/OFP/!svn/ver/389/trunk/DATA/grid/grid.age
+END

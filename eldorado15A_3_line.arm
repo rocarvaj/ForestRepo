@@ -1,0 +1,8 @@
+[DataSet] eldorado15A 
+[AdjFile] line.adjacency
+[AreaFile] area.area
+[MaxArea] 120
+[ProfitFile] profit.profit
+[TimePeriods] 3 3 7 11
+[GreenUp] 1
+EOF

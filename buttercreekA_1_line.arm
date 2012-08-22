@@ -1,0 +1,8 @@
+[DataSet] buttercreekA 
+[AdjFile] line.adjacency
+[AreaFile] area.area
+[MaxArea] 120
+[ProfitFile] profit.profit
+[TimePeriods] 1 1
+[GreenUp] 1
+EOF

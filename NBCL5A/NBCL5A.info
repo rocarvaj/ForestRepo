@@ -1,0 +1,14 @@
+Created from data set NBCL5 from FMOS. Stand id is identical to data set.
+Assumed that each period corresponds to 5 years.
+
+Files:
+
+	-area.area   Stand area in acres. Converted from attribute "Hectare" in shapefile.
+	-age.age     Initial age for stands from attribute "Age" in shapefile. Assumed to 
+		     be in years.
+	-PPP.volume  Volume for product PPP. Obtained from Volume.csv from the data set. 
+		     Products SW=SWLOG+SWFIB, HW=HWLOG+HWFIB, total=SW+HW.
+	-totla.profit Profit for producttotal. Obtained from total.volume by considering 
+		      a profit of 90 per volume unit and a 3% anual discount rate. 
+	-line.adjacency   Adjacency considering two stands adjacent if the number of points
+			    in their intersection is strictly greater than 1

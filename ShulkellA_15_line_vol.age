@@ -1,0 +1,10 @@
+[DataSet] ShulkellA 
+[AdjFile] line.adjacency
+[AreaFile] area.area
+[MaxArea] 40
+[ProfitFile] profit.profit
+[TimePeriods] 15 1 2 3 4 5 7 8 9 10 11 12 13 14 15
+[GreenUp] 1
+[VolumeFlow] 15 15 volume.volume
+[AvgAge] 40 13 age.age
+EOF

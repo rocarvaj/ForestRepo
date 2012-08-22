@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A
+END
+volume.volume
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/volume.volume
+END
+area.area
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/area.area
+END
+profit.profit
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/profit.profit
+END
+age.age
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/age.age
+END
+line.adjacency
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/line.adjacency
+END
+point.adjacency
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/point.adjacency
+END

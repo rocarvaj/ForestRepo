@@ -1,0 +1,10 @@
+[DataSet] grid 
+[AdjFile] grid.adj
+[AreaFile] grid.area
+[MaxArea] 120
+[ProfitFile] grid.prof
+[TimePeriods] 3 3 7 11
+[GreenUp] 1
+[VolumeFlow] 15 15 grid.vol
+[AvgAge] 40 11 grid.age
+EOF

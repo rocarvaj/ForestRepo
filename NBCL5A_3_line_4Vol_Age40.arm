@@ -1,0 +1,13 @@
+[DataSet] NBCL5A 
+[AdjFile] line.adjacency
+[AreaFile] area.area
+[MaxArea] 80
+[ProfitFile] total.profit
+[TimePeriods] 3 1 5 9 
+[GreenUp] 1
+[VolumeFlow] 15 15 HWFIB.volume
+[VolumeFlow] 15 15 HWLOG.volume
+[VolumeFlow] 15 15 SWFIB.volume
+[VolumeFlow] 15 15 SWLOG.volume
+[AvgAge] 40 10 age.age
+EOF

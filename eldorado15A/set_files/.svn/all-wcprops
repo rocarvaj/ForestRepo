@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files
+END
+clusters_120_eldorado15A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/clusters_120_eldorado15A.txt
+END
+mininfclusters_120_eldorado15A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/mininfclusters_120_eldorado15A.txt
+END
+maxcliques_eldorado15A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/maxcliques_eldorado15A.txt
+END
+cliques_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/cliques_line.txt
+END
+clusters_120_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/clusters_120_line.txt
+END
+NDMIS_120_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/NDMIS_120_line.txt
+END
+clusters_eldorado15A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/clusters_eldorado15A.txt
+END
+mininfclusters_eldorado15A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/OFP/!svn/ver/389/trunk/DATA/eldorado15A/set_files/mininfclusters_eldorado15A.txt
+END

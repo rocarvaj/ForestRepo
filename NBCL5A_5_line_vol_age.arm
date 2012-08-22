@@ -1,0 +1,10 @@
+[DataSet] NBCL5A 
+[AdjFile] line.adjacency
+[AreaFile] area.area
+[MaxArea] 80
+[ProfitFile] total.profit
+[TimePeriods] 5 1 3 5 7 9 
+[GreenUp] 1
+[VolumeFlow] 15 15 total.volume
+[AvgAge] 40 10 age.age
+EOF

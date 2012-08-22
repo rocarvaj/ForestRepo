@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/OFP/!svn/ver/389/trunk/DATA/FLG9A/set_files
+END
+clusters_48.56_FLG9A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/OFP/!svn/ver/389/trunk/DATA/FLG9A/set_files/clusters_48.56_FLG9A.txt
+END
+mininfclusters_48.56_FLG9A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/OFP/!svn/ver/389/trunk/DATA/FLG9A/set_files/mininfclusters_48.56_FLG9A.txt
+END
+maxcliques_FLG9A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/OFP/!svn/ver/389/trunk/DATA/FLG9A/set_files/maxcliques_FLG9A.txt
+END

@@ -1,0 +1,19 @@
+Created from data set FLG9_1.0 from FMOS. Stand id is identical to data set.
+Each period corresponds to 5 years.
+
+Files:
+
+	-area.area   Stand area in hectares. From the data set shape file.
+	-acX.age     Initial age for stands for age class structure X. Age in years
+		     is (age_class-1)*5 where age_class is obtained from the data set
+		     shape file.
+	-acX_PPP.volume Volume in m^3 for age class structure X and product PPP. Obtained
+                        from VolumeCase_X.csv from the data set. Products SW=SWLOG+SWFIB, 
+			HW=HWLOG+HWFIB, total=SW+HW
+	-acX_PPP.profit Profit for age class structure X and product PPP. Obtained from 
+			acX_PPP.volume by considering a profit of 90 per m^3 and a
+			3% anual discount rate. 
+	-distance_D.adjacency Adjacency considering two stands adjacent if the distance
+			      between them is <= D meters
+	-strong.adjacency   Adjacency considering two stands adjacent if the number of points
+			    in their intersection is strictly greater than 1

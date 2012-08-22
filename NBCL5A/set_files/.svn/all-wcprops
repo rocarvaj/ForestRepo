@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/OFP/!svn/ver/389/trunk/DATA/NBCL5A/set_files
+END
+clusters_80_NBCL5A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/OFP/!svn/ver/389/trunk/DATA/NBCL5A/set_files/clusters_80_NBCL5A.txt
+END
+maxcliques_NBCL5A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/OFP/!svn/ver/389/trunk/DATA/NBCL5A/set_files/maxcliques_NBCL5A.txt
+END
+mininfclusters_80_NBCL5A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/OFP/!svn/ver/389/trunk/DATA/NBCL5A/set_files/mininfclusters_80_NBCL5A.txt
+END

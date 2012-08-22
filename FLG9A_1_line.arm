@@ -1,0 +1,9 @@
+[DataSet] FLG9A 
+[AdjFile] strong.adjacency
+[AreaFile] area.area
+[MaxArea] 48.56
+[ProfitFile] ac1_total.profit
+[TimePeriods] 1 1
+[GreenUp] 1
+[AvgAge] 40 15 ac1.age
+EOF

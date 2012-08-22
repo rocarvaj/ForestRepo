@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/OFP/!svn/ver/389/trunk/DATA/ShulkellA/set_files
+END
+NDMIS_40_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/OFP/!svn/ver/389/trunk/DATA/ShulkellA/set_files/NDMIS_40_line.txt
+END
+clusters_40_ShulkellA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/OFP/!svn/ver/389/trunk/DATA/ShulkellA/set_files/clusters_40_ShulkellA.txt
+END
+cliques_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/OFP/!svn/ver/389/trunk/DATA/ShulkellA/set_files/cliques_line.txt
+END
+mininfclusters_40_ShulkellA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/OFP/!svn/ver/389/trunk/DATA/ShulkellA/set_files/mininfclusters_40_ShulkellA.txt
+END
+clusters_40_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/OFP/!svn/ver/389/trunk/DATA/ShulkellA/set_files/clusters_40_line.txt
+END
+maxcliques_ShulkellA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/OFP/!svn/ver/389/trunk/DATA/ShulkellA/set_files/maxcliques_ShulkellA.txt
+END

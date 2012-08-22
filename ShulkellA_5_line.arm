@@ -1,0 +1,8 @@
+[DataSet] ShulkellA 
+[AdjFile] line.adjacency
+[AreaFile] area.area
+[MaxArea] 40
+[ProfitFile] profit.profit
+[TimePeriods] 5 2 4 7 9 12
+[GreenUp] 1
+EOF
